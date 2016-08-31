@@ -1,4 +1,22 @@
 Took the help from:
 - https://github.com/yrojha4ever/JavaStud
-- https://github.com/HackBulgaria/Core-Java-1
-- https://github.com/HackBulgaria/Core-Java-2
+- https://github.com/HackBulgaria/Core-Java-1 (Already copied)
+- https://github.com/HackBulgaria/Core-Java-2 (Already copied)
+- https://github.com/amit4alljava/CoreJava230W (Already copied)
+- https://github.com/lshimokawa/java-samples
+- https://github.com/Mann02/java
+- https://github.com/tfunato/java-samples
+- https://github.com/xpadro/concurrency
+- http://xpadro.blogspot.in/2014/09/java-concurrency-tutorial.html
+- https://github.com/javaee-samples/javaee7-samples
+- https://github.com/shekhargulati/java8-the-missing-tutorial
+- https://github.com/winterbe/java8-tutorial
+- https://github.com/cirosantilli/java-cheat
+- https://github.com/CoachEd/JavaExamples
+- https://github.com/taywils/java_spark_tutorial
+- http://taywils.me/2013/11/05/javasparkframeworktutorial.html
+- https://github.com/Nirman-Rathod/Java/blob/master/JavaPowershell/src/com/java/powershell/ExecuteCommand.java
+- https://github.com/JavaK2/java8-tutorial
+- https://github.com/rahmanusta/Java8/tree/master/src
+- https://github.com/datalogics/pdf-java-toolkit-samples
+- https://github.com/ashishsharma/ashish
