@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8082e70d-febd-49a7-a9b3-e077bafe1812" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/15-Networking3/jdom-1.1.3.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/15-Networking3/rome-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/images/john-romero-greyscale.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/images/john-romero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/giphy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile5.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile8.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/WebContent/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GUI/giphy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Memory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MemoryDetails.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/WebContent/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaConcept.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/00-JavaPlatformIntroduction/problems0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/000-StartHere/eclipse-derived-120.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/000-StartHere/eclipsePrefs.epf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/000-StartHere/start-here.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/01-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/01-TypesArraysStrings/pre1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/03-OOP1/agenda3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/03-OOP1/pre3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/03-OOP1/problems3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/04-CollectionsAndGenerics1/pre4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/04-CollectionsAndGenerics1/problems4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/05-Exceptions/pre5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/05-Exceptions/problems5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/06-Exam1/solution/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/10-StructuredData/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/10-StructuredData/pre.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/10-StructuredData/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/10-StructuredData/testData/links.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/11-OOP2/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/11-OOP2/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/11-OOP2/references/ConsoleTicTacToe/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/11-OOP2/references/ConsoleTicTacToe/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/12-SmallProject/ref/2048/a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/12-SmallProject/ref/2048/src/com/hackbulgaria/corejava/game2048/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/13-Networking1/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/13-Networking1/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/14-Networking2/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/14-Networking2/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/15-Networking3/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/15-Networking3/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/16-Generics2/materials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/16-Generics2/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/17-JavaTooling/links.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/17-JavaTooling/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/18-ThreadsParallel/WebCrawler/src/com/hackbulgaria/corejava/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/19-ThreadsConcurrent/WaitNotifyMechanism/src/com/hackbulgaria/corejava/WaitNotifyMechanism.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/19-ThreadsConcurrent/problems.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ATM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/1-Primes-In-An-Interval/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/2-List-Duplicating-Files/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/3-Smallest-Substring-Containing-The-Alphabet/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ArgsMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/ArrayLoopWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/CRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/CollectionNewFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/ConcurrentCollections.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Demo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/GameSplashScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/JDBCDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Logic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/LoginDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/MainScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/MultipleControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/NavigableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/PDFXLSMP3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/Stream01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/TemplateDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codes/TestLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/CRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CollCodes/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/CollectionNewFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/ConcurrentCollections.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/NavigableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/Stream01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/TemplateDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/TemplateExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collection1/WildCard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/CRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Codes/ArrayLoopWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Codes/CRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Codes/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Codes/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/ArrayLoopWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/CRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/HashSetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/Set/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Collections/Demos/Set/HashSetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DataTypePreSuf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Elapsed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExecDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile1.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile2.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile3.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile4.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile6.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile7.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/VirusFoundFile9.haha" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/src/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/src/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FileDemo/src/ReadWriteDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/.tern-project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/WebContent/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginIncludeServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/SessionCheckFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GUI/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GUI/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GUI/GameSplashScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GUI/MainScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Has-ADemo/CompositionAndAggegrationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Has-ADemo/InnerClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Has-ADemo/InnerClassDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Has-ADemo/MethodLocalInnerClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloWorldDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/BankingProduct.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/ConsQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/ConstructorChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/OverloadVsOverride.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/OverrideDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/OverridingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/ReturnAndPassObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/SuperAndThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/SuperAndThis2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/TestUpCasting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IS-A/UpcastingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ITEmployee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/AdapterDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/CardExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Demo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Demo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/GamingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceRules.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceRules2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceUseDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/MultipleInheritanceProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/ScannerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/StaticDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/StaticMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/DataType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/IfElseDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/ReferenceDataType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/SwitchCaseDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCodes/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/BPlus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/ObjectFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/objects.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MathTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletAppDemo/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletAppDemo/src/FirstServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/.tern-project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/WebContent/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Networking/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Networking/IPTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Networking/PageReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Networking/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/AbstractDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/ConsQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/ConstructorChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/GamingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverloadVsOverride.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverrideDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverridingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/ReturnAndPassObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/TypePromotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/VarArgs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOPSCodes/WrapperDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OutOfMemoryPrg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflection/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflection/DynamicWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reflection/StaticWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/Demo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/Demo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/EqualsDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/Questions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/StringBufferDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/StringDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringDemos/StringMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestITEmployee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threads/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threads/Demo11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threads/InterThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threads/JoinAndSynchExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threads/SynchDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Upcasting-Downcasting/BankingProduct.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Upcasting-Downcasting/TestUpCasting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Upcasting-Downcasting/UpcastingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/WebContent/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/WebContent/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/WebContent/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/WebContent/welcome.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/build/classes/struts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/src/com/srivastava/actions/LoginAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Web2/src/struts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/inheritance/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/inheritance/Bird.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/inheritance/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/inheritance/TestAnimal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/interfaces/Excel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/interfaces/Office.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/interfaces/TestOffice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/interfaces/Word.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/methodhiding/StaticMethodHiding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/overloading/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/overloading/ReadMe.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/overloading/TestBox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/static1/ExecuteWithoutMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch3_oops/static1/StaticBlockTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/ArrayListExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/CollectionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/HashMapExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/HashSetExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/LinkedHashMapExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/LinkedHashSetExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/TreeMapExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/TreeSetExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/UserArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/VectorExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hdfc/atm/ATM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hdfc/banking/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/hdfc/insurance/LifeInsurance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/BigDecimalIntTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Break.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/BreakLoop4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Continue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/ControlStat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Currency.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/CurrencyEnumTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Day.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/DoWhile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Emp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/FindMinPassArr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/ForEachDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/HelloConstTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/IfElse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/RetOb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/Return.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/SwitchDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/SwitchDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/WhileComma.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/control/WhileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/DateFormatTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/DateStrToDateObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/DateTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/InstanceOfUses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/JodaTimeExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/JodaTimeExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/ReflectionClassName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datereflection/SimpleDateFormatTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dt/AssignmentTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dt/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dt/Scope.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/CompileTimeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/CustomExceptionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/FinallyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/InvalidAgeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/MultiCatchException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/MultiTryCatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/PgmWithoutException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/RuntimeExceptionAutoPropagate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/ThrowCheckExceptionCompileError.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/ThrowExampleWithTryCatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/ThrowTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exhand/ThrowsUncheckPropagation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/ActionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/ActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/AnnInnAbstClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/AnnonymousInterfaceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/ButtonClick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/ButtonClickActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/EmployeeOuter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/ShyamEat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/StaticInnerClassWithStaticMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/innerclass/StaticInnerO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BufferedInputStreamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BufferedOutputStreamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BufferedReaderInputStreamReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/DeserializeUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileInputStreamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileOutputStreamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileReaderExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileStreamReadOneWriteToOther.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileWriterExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ReadCsv.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ScannerConsoleInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ScannerDelimated.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ScannerEx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/SerializationUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/TryWithResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/CommonDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/JDBC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/JDBCDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/JdbcConnectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/LoginDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/LoginDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/MysqlConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdbc/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/FacebookLike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/RunnableInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/ShutdownHookExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/SynchronizeFbLike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/ThreadClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/ThreadJoinCalcTanx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/ThreadJoinPrintValues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mthread/ThreadsWithName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/ChangeStaticValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/CounterWithStatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/CounterWithoutStatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/PassObjAsParam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/PrintThisKeyword.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/StaticBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/StaticVariable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/VechicleTestMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/abst/AbstractClassTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/abst/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/abst/Nabil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/abst/NicAsia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/abst/StandChart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/block/Bike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/finalex/EmployeePanNo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/finalex/FinalParam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/inheritence/Bus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/inheritence/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/inheritence/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/InterfaceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/Nabil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/NicAsia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/Printable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/PrintableImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/StandChart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/ext/InterfaceInheritenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/ext/Printable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/ext/Readable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/interf/ext/Showable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/overloading/AmbigiousCalculation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/overloading/Calculation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/overloading/Calculation2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/overloading/OverloadingTypePromotionCalc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/Bike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/bank/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/bank/InterestRateTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/bank/Nabil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/bank/NicAsia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/override/bank/StandChart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Bike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Splender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/binding/Boy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/binding/Human.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/BabyDog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/runtime/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/runtime/Nabil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/runtime/NicAsia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/runtime/RuntimePolymTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/polymorphism/runtime/StandChart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/superex/Bike.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop/superex/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/constr/Area.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/constr/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/constr/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/course/AndroidCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/course/JavaCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/course/StaticImport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/multiclassex/InnerClassEx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/multiclassex/MultipleClassEx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/pkgpvt/JavaCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/pkgpvt/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/stud/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/week0/2-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/week0/2-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/week0/2-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2Impl.java" />
+    </list>
+    <ignored path="JavaConcept.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaConcept" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ATM.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ATM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayLoopWays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stream01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileDemo/src/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsQuestion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IS-A/ConsQuestion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LooslyCoupledDemo/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agenda0.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problems.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problems.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problems.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/13-Networking1/problems.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ch3_oops/inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/ch3_oops/interfaces/Excel.java" />
+        <option value="$PROJECT_DIR$/src/ch3_oops/methodhiding/StaticMethodHiding.java" />
+        <option value="$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java" />
+        <option value="$PROJECT_DIR$/src/Collection1/Stream01.java" />
+        <option value="$PROJECT_DIR$/src/FileDemo/src/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/IS-A/ConsQuestion.java" />
+        <option value="$PROJECT_DIR$/src/LooslyCoupledDemo/A.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LooslyCoupledDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IS-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IS-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsQuestion.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FileDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FileDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Collection1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="13-Networking1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09-PracticalTeamWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08-WorkingWithLibraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00-JavaPlatformIntroduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaConcept" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaK2/java-puzzlers" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/CollCodes" />
+      <recent name="$PROJECT_DIR$/src/ch3_oops" />
+      <recent name="$PROJECT_DIR$/src/ch3_oops/interfaces" />
+      <recent name="$PROJECT_DIR$/src/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestAnimal">
+    <configuration default="false" name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch3_oops.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch3_oops.inheritance.TestAnimal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaConcept" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaConcept" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="JavaConcept" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaConcept" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestAnimal" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestAnimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/recfun" value="1462352930000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8082e70d-febd-49a7-a9b3-e077bafe1812" name="Default" comment="" />
+      <created>1472596644817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472596644817</updated>
+      <workItem from="1472596648381" duration="3408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3408000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch07/methodsandclasses/RecursiveArrayPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_oops/inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_oops/inheritance/TestAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_oops/interfaces/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_oops/methodhiding/StaticMethodHiding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileDemo/src/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IS-A/ConsQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LooslyCoupledDemo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/13-Networking1/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
