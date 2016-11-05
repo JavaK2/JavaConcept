@@ -2,7 +2,6 @@ package Collections.Demos.Set;
 
 import java.util.TreeSet;
 
-
 public class Demo1 {
 
 	public static void main(String[] args) {
@@ -14,7 +13,7 @@ public class Demo1 {
 		hs.add("ram");
 		hs.add("shyam");
 		System.out.println(hs);
-		
+
 	}
 
 }

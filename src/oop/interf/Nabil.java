@@ -3,12 +3,12 @@ package oop.interf;
 public class Nabil implements Bank {
 
 	@Override
-	public String getBankName( ) {
+	public String getBankName() {
 		return "Nabil";
 	}
 
 	@Override
-	public int getRate( ) {
+	public int getRate() {
 		return 6;
 	}
 

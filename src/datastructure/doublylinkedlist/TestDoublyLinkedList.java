@@ -7,12 +7,12 @@ public class TestDoublyLinkedList {
 		dl.insertAtFirst("boby");
 		dl.insertAtLast("dan");
 		dl.insertAtLast("sam");
-		
+
 		dl.insetAtPosition("adam", 1);
 		dl.insetAtPosition("gan", 1);
-		
+
 		dl.printDoublyLinkedList();
-		
+
 		dl.removeAtPosition(6);
 		dl.printDoublyLinkedList();
 	}

@@ -3,12 +3,12 @@ package oop.abst;
 public class StandChart extends Bank {
 
 	@Override
-	public String getBankName( ) {
+	public String getBankName() {
 		return "Standard Chartered";
 	}
 
 	@Override
-	protected int getRate( ) {
+	protected int getRate() {
 		return 4;
 	}
 

@@ -3,12 +3,12 @@ package oop.abst;
 public class Nabil extends Bank {
 
 	@Override
-	public String getBankName( ) {
+	public String getBankName() {
 		return "Nabil";
 	}
 
 	@Override
-	protected int getRate( ) {
+	protected int getRate() {
 		return 6;
 	}
 

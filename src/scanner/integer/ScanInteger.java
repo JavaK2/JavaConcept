@@ -7,7 +7,7 @@ public class ScanInteger {
 		System.out.println("Enter list of integer: ");
 		Scanner sc = new Scanner(System.in);
 		int i;
-		
+
 		while (sc.hasNextInt()) {
 			i = sc.nextInt();
 			System.out.println("You have typed: " + i);

@@ -1,5 +1,5 @@
 package innerclass;
 
 public abstract class ActionEvent {
-	public abstract void actionPerformed( );
+	public abstract void actionPerformed();
 }

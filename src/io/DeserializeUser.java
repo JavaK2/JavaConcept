@@ -7,14 +7,14 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 
 public class DeserializeUser {
-	public static void main( String[] args ) throws FileNotFoundException, IOException, ClassNotFoundException {
+	public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
 
-		ObjectInputStream io = new ObjectInputStream( new FileInputStream( new File( "D:\\user.txt" ) ) );
+		ObjectInputStream io = new ObjectInputStream(new FileInputStream(new File("D:\\user.txt")));
 
-		User user = ( User ) io.readObject( );
-		io.close( );
+		User user = (User) io.readObject();
+		io.close();
 
-		System.out.println( user );
+		System.out.println(user);
 
 	}
 }

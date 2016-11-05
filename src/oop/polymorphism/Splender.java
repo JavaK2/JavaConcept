@@ -8,7 +8,7 @@ public class Splender extends Bike {
 	}
 
 	public static void main(String[] args) {
-		Bike b = new Splender(); //upcasting
+		Bike b = new Splender(); // upcasting
 		b.run();
 	}
 

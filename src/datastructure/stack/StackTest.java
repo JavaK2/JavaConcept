@@ -6,13 +6,13 @@ public class StackTest {
 		st.push(1);
 		st.push(2);
 		st.push(3);
-   
+
 		try {
 			st.pop();
-		} catch(NoSuchElementException e) {
+		} catch (NoSuchElementException e) {
 			System.out.println("Exception: " + e);
 		} // end of catch
-   
+
 		System.out.println("Top element is: " + st.peek());
 		st.printContent();
 	}

@@ -1,24 +1,23 @@
 package Codes;
 
 public class Logic {
-	public int add(int x , int y){
+	public int add(int x, int y) {
 		return x + y;
 	}
-	public int add(String x , String y){
+
+	public int add(String x, String y) {
 		int a = 0;
 		int b = 0;
-		try{
+		try {
 			a = Integer.parseInt(x);
+		} catch (NumberFormatException e) {
+			a = 0;
 		}
-		catch(NumberFormatException e){
-			a=0;
-		}
-		try{
+		try {
 			b = Integer.parseInt(y);
+		} catch (NumberFormatException e) {
+			b = 0;
 		}
-		catch(NumberFormatException e){
-			b=0;
-		}
-		return a+b;
+		return a + b;
 	}
 }

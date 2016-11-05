@@ -2,26 +2,17 @@ package control;
 
 public class SwitchDemo {
 
-	/*public void tellItLikeItIs(Day day) {
-		switch (day) {
-		case MONDAY:
-			System.out.println("Mondays are bad.");
-			break;
-
-		case FRIDAY:
-			System.out.println("Fridays are better.");
-			break;
-
-		case SATURDAY:
-		case SUNDAY:
-			System.out.println("Weekends are best.");
-			break;
-
-		default:
-			System.out.println("Midweek days are so-so.");
-			break;
-		}
-	}*/
+	/*
+	 * public void tellItLikeItIs(Day day) { switch (day) { case MONDAY:
+	 * System.out.println("Mondays are bad."); break;
+	 * 
+	 * case FRIDAY: System.out.println("Fridays are better."); break;
+	 * 
+	 * case SATURDAY: case SUNDAY: System.out.println("Weekends are best.");
+	 * break;
+	 * 
+	 * default: System.out.println("Midweek days are so-so."); break; } }
+	 */
 
 	public static void main(String[] args) {
 		int month = 25;
@@ -45,7 +36,7 @@ public class SwitchDemo {
 			numDays = 30;
 			break;
 		case 2:
-			if (  ( (year % 4 == 0) && !(year % 100 == 0) ) || (year % 400 == 0)   )
+			if (((year % 4 == 0) && !(year % 100 == 0)) || (year % 400 == 0))
 				numDays = 29;
 			else
 				numDays = 28;

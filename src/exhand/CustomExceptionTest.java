@@ -3,24 +3,24 @@ package exhand;
 import java.util.Scanner;
 
 public class CustomExceptionTest {
-	public static void main( String[] args ) {
+	public static void main(String[] args) {
 
 		Scanner sc = null;
 
-		CustomExceptionTest obj = new CustomExceptionTest( );
+		CustomExceptionTest obj = new CustomExceptionTest();
 		try {
 
-			sc = new Scanner( System.in );
+			sc = new Scanner(System.in);
 
-			System.out.println( "Enter your Age: " );
-			int age = sc.nextInt( );
+			System.out.println("Enter your Age: ");
+			int age = sc.nextInt();
 
-			obj.checkEligibleAgeForVote( age );
-		} catch ( InvalidAgeException e ) {
-			e.printStackTrace( );
+			obj.checkEligibleAgeForVote(age);
+		} catch (InvalidAgeException e) {
+			e.printStackTrace();
 
 		} finally {
-			sc.close( );
+			sc.close();
 		}
 
 		// Scanner sc = null;
@@ -41,13 +41,13 @@ public class CustomExceptionTest {
 		// }
 	}
 
-	public void checkEligibleAgeForVote( int age ) throws InvalidAgeException {
+	public void checkEligibleAgeForVote(int age) throws InvalidAgeException {
 
-		if ( age < 18 ) {
-			throw new InvalidAgeException( "You are not eligible to vote. Age: " + age );
+		if (age < 18) {
+			throw new InvalidAgeException("You are not eligible to vote. Age: " + age);
 
 		} else {
-			System.out.println( "You can vote. Age: " + age );
+			System.out.println("You can vote. Age: " + age);
 		}
 
 	}

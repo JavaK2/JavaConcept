@@ -6,7 +6,6 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
-
 public class PageReader {
 
 	public static void main(String[] args) throws IOException {
@@ -18,24 +17,19 @@ public class PageReader {
 		InputStream is = con.getInputStream();
 		FileOutputStream fo = new FileOutputStream("C:\\Users\\arnav\\Desktop\\HTML\\img.jpg");
 		singleChar = is.read();
-		while(singleChar!=-1){
+		while (singleChar != -1) {
 			fo.write(singleChar);
-			//sb.append((char)singleChar); 
+			// sb.append((char)singleChar);
 			singleChar = is.read();
-			
+
 		}
 		is.close();
-		
-		//fo.write(sb.toString().getBytes());
+
+		// fo.write(sb.toString().getBytes());
 		fo.close();
 		System.out.println("Done...");
-		
-		
-		
-		
-		
-		
-		//System.out.println(sb);
+
+		// System.out.println(sb);
 	}
 
 }

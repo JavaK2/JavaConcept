@@ -1,23 +1,28 @@
 package Reflection;
 
 public class Calculator {
-	Calculator(){
+	Calculator() {
 		System.out.println("Calc Cons Call");
 	}
-	static{
+
+	static {
 		System.out.println("Static Block Call...");
 	}
-public int add(int x , int y){
-	return x + y;
-}
-public int subtract(int x , int y){
-	return x - y;
-}
-public int multiply(int x , int y){
-	return x * y;
-}
-public int divide(int x , int y){
-	return x / y;
-}
+
+	public int add(int x, int y) {
+		return x + y;
+	}
+
+	public int subtract(int x, int y) {
+		return x - y;
+	}
+
+	public int multiply(int x, int y) {
+		return x * y;
+	}
+
+	public int divide(int x, int y) {
+		return x / y;
+	}
 
 }

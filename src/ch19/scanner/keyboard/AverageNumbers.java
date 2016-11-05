@@ -7,22 +7,22 @@ public class AverageNumbers {
 		int sum, count;
 		sum = count = 0;
 		Scanner conin = new Scanner(System.in);
-		
+
 		System.out.println("Enter scores: ");
-		
+
 		while (conin.hasNext()) {
 			if (conin.hasNextDouble()) {
 				sum += conin.nextDouble();
 				count++;
 			}
-			
+
 			else {
-				if (conin.next().equals("done") )
+				if (conin.next().equals("done"))
 					break;
 			}
 		}
-		
-		System.out.println("Avergate is: " + sum/count);
+
+		System.out.println("Avergate is: " + sum / count);
 	}
 
 }

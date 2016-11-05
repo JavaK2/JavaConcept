@@ -8,5 +8,5 @@ public class EmployeePanNo {
 	public EmployeePanNo() {
 		PAN_NO = 87290;
 	}
-	
+
 }

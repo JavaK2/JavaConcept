@@ -7,12 +7,12 @@ public class MathTest {
 		// sin90 = 1
 		double sin90 = Math.sin(Math.PI / 2);
 		System.out.println(sin90);
-		
+
 		double r = 9.8;
 		double roundUpVal = Math.round(r);
-		System.out.println("Round up: "+ roundUpVal);
-		
+		System.out.println("Round up: " + roundUpVal);
+
 		double floorVal = Math.floor(r);
-		System.out.println("After Round: " + floorVal); 
+		System.out.println("After Round: " + floorVal);
 	}
 }

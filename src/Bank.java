@@ -1,27 +1,27 @@
 
 public class Bank {
-	
-	public void withDraw(){
+
+	public void withDraw() {
 		checkPin();
 		checkAccountLocked();
 		checkNoOfTrans();
 		checkBalance();
 	}
-	
-	private void checkNoOfTrans(){
-		
+
+	private void checkNoOfTrans() {
+
 	}
-	
-	private void checkAccountLocked(){
-		
+
+	private void checkAccountLocked() {
+
 	}
-	
-	private void checkBalance(){
-		
+
+	private void checkBalance() {
+
 	}
-	
-	private void checkPin(){
-		
+
+	private void checkPin() {
+
 	}
 
 }

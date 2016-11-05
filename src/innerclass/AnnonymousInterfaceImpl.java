@@ -1,22 +1,22 @@
 package innerclass;
 
 public class AnnonymousInterfaceImpl {
-	public static void main( String[] args ) {
+	public static void main(String[] args) {
 
-		Eatable e = new Eatable( ) {
+		Eatable e = new Eatable() {
 			@Override
-			public void eat( ) {
-				System.out.println( "I am eating.." );
+			public void eat() {
+				System.out.println("I am eating..");
 			}
 		};
-		e.eat( );
+		e.eat();
 
-		new Eatable( ) {
+		new Eatable() {
 			@Override
-			public void eat( ) {
-				System.out.println( "No Object Name: Eating.." );
+			public void eat() {
+				System.out.println("No Object Name: Eating..");
 			}
-		}.eat( );
+		}.eat();
 
 	}
 }

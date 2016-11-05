@@ -2,17 +2,16 @@ package control;
 
 import java.util.Scanner;
 
-
 public class SwitchDemo1 {
 	public static void main(String[] args) {
-		System.out.print("Please intput a month: "); 
-		
+		System.out.print("Please intput a month: ");
+
 		Scanner a = new Scanner(System.in);
 		int month = a.nextInt();
-		
+
 		String monthString;
 		switch (month) {
-		
+
 		case 1:
 		case 2:
 		case 3:

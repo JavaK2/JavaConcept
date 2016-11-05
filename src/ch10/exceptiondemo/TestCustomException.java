@@ -5,7 +5,7 @@ public class TestCustomException {
 		if (age < 13)
 			throw new InvalidAgeException("Age is invalid");
 	}
-	
+
 	public static void main(String[] args) {
 		try {
 			age(5);

@@ -29,17 +29,16 @@ public class Student {
 
 		Student s2 = new Student(102, "Aryan", 15);
 		s2.display();
-		
+
 		BigDecimal a = new BigDecimal(2);
-		BigDecimal b = new  BigDecimal(3);
+		BigDecimal b = new BigDecimal(3);
 		BigDecimal resu = a.add(b);
-		System.out.println( resu.toString() );
-		
+		System.out.println(resu.toString());
+
 		String str = "2";
 		int intb = 5;
 		int re = Integer.parseInt(str) + intb;
-		
-		
+
 	}
 
 }

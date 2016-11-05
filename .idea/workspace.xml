@@ -2,7 +2,399 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8082e70d-febd-49a7-a9b3-e077bafe1812" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch02_objects/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03_oops/interfaces/Excel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03_oops/interfaces/Word.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch03_oops/static1/ExecuteWithoutMain.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/01-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/01-TypesArraysStrings/pre1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/03-OOP1/agenda3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/03-OOP1/pre3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/03-OOP1/problems3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/11-OOP2/materials.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/11-OOP2/problems.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/11-OOP2/references/ConsoleTicTacToe/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/11-OOP2/references/ConsoleTicTacToe/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/12-SmallProject/ref/2048/a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/12-SmallProject/ref/2048/src/com/hackbulgaria/corejava/game2048/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/16-Generics2/materials.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/16-Generics2/problems.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/1-Primes-In-An-Interval/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/2-List-Duplicating-Files/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/3-Smallest-Substring-Containing-The-Alphabet/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/images/john-romero-greyscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/4-Convert-To-Greyscale/images/john-romero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Application/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ch3_oops/interfaces/Excel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ch3_oops/interfaces/Word.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ch3_oops/static1/ExecuteWithoutMain.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/inheritance/Animal.java" afterPath="$PROJECT_DIR$/src/ch03_oops/inheritance/Animal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/inheritance/Bird.java" afterPath="$PROJECT_DIR$/src/ch03_oops/inheritance/Bird.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/inheritance/Dog.java" afterPath="$PROJECT_DIR$/src/ch03_oops/inheritance/Dog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/inheritance/TestAnimal.java" afterPath="$PROJECT_DIR$/src/ch03_oops/inheritance/TestAnimal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/interfaces/Office.java" afterPath="$PROJECT_DIR$/src/ch03_oops/interfaces/Office.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/interfaces/TestOffice.java" afterPath="$PROJECT_DIR$/src/ch03_oops/interfaces/TestOffice.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/methodhiding/StaticMethodHiding.java" afterPath="$PROJECT_DIR$/src/ch03_oops/methodhiding/StaticMethodHiding.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/overloading/Box.java" afterPath="$PROJECT_DIR$/src/ch03_oops/overloading/Box.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/overloading/ReadMe.md" afterPath="$PROJECT_DIR$/src/ch03_oops/overloading/ReadMe.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/overloading/TestBox.java" afterPath="$PROJECT_DIR$/src/ch03_oops/overloading/TestBox.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ch3_oops/static1/StaticBlockTest.java" afterPath="$PROJECT_DIR$/src/ch03_oops/static1/StaticBlockTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaConcept.iml" afterPath="$PROJECT_DIR$/JavaConcept.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/06-Exam1/solution/Main.java" afterPath="$PROJECT_DIR$/src/06-Exam1/solution/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ATM.java" afterPath="$PROJECT_DIR$/src/ATM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ArgsMain.java" afterPath="$PROJECT_DIR$/src/ArgsMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Bank.java" afterPath="$PROJECT_DIR$/src/Bank.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/ArrayLoopWays.java" afterPath="$PROJECT_DIR$/src/Codes/ArrayLoopWays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/CRUD.java" afterPath="$PROJECT_DIR$/src/Codes/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/CollectionNewFeatures.java" afterPath="$PROJECT_DIR$/src/Codes/CollectionNewFeatures.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/ConcurrentCollections.java" afterPath="$PROJECT_DIR$/src/Codes/ConcurrentCollections.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Demo.java" afterPath="$PROJECT_DIR$/src/Codes/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Demo1.java" afterPath="$PROJECT_DIR$/src/Codes/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Demo2.java" afterPath="$PROJECT_DIR$/src/Codes/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Demo3.java" afterPath="$PROJECT_DIR$/src/Codes/Demo3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/GameSplashScreen.java" afterPath="$PROJECT_DIR$/src/Codes/GameSplashScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/JDBCDemo1.java" afterPath="$PROJECT_DIR$/src/Codes/JDBCDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Logic.java" afterPath="$PROJECT_DIR$/src/Codes/Logic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/LoginDemo.java" afterPath="$PROJECT_DIR$/src/Codes/LoginDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/MainScreen.java" afterPath="$PROJECT_DIR$/src/Codes/MainScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/MapDemo.java" afterPath="$PROJECT_DIR$/src/Codes/MapDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/MultipleControls.java" afterPath="$PROJECT_DIR$/src/Codes/MultipleControls.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/MusicPlayer.java" afterPath="$PROJECT_DIR$/src/Codes/MusicPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/NavigableDemo.java" afterPath="$PROJECT_DIR$/src/Codes/NavigableDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/PDFXLSMP3.java" afterPath="$PROJECT_DIR$/src/Codes/PDFXLSMP3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/Stream01.java" afterPath="$PROJECT_DIR$/src/Codes/Stream01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/TemplateDemo.java" afterPath="$PROJECT_DIR$/src/Codes/TemplateDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Codes/TestLogic.java" afterPath="$PROJECT_DIR$/src/Codes/TestLogic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java" afterPath="$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/CRUD.java" afterPath="$PROJECT_DIR$/src/CollCodes/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/Demo.java" afterPath="$PROJECT_DIR$/src/CollCodes/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/Demo1.java" afterPath="$PROJECT_DIR$/src/CollCodes/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/Demo2.java" afterPath="$PROJECT_DIR$/src/CollCodes/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CollCodes/MapDemo.java" afterPath="$PROJECT_DIR$/src/CollCodes/MapDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/CollectionNewFeatures.java" afterPath="$PROJECT_DIR$/src/Collection1/CollectionNewFeatures.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/ConcurrentCollections.java" afterPath="$PROJECT_DIR$/src/Collection1/ConcurrentCollections.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/NavigableDemo.java" afterPath="$PROJECT_DIR$/src/Collection1/NavigableDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/Stream01.java" afterPath="$PROJECT_DIR$/src/Collection1/Stream01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/TemplateDemo.java" afterPath="$PROJECT_DIR$/src/Collection1/TemplateDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/TemplateExample.java" afterPath="$PROJECT_DIR$/src/Collection1/TemplateExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collection1/WildCard.java" afterPath="$PROJECT_DIR$/src/Collection1/WildCard.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/CRUD.java" afterPath="$PROJECT_DIR$/src/Collections/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Codes/ArrayLoopWays.java" afterPath="$PROJECT_DIR$/src/Collections/Codes/ArrayLoopWays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Codes/CRUD.java" afterPath="$PROJECT_DIR$/src/Collections/Codes/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Codes/Demo1.java" afterPath="$PROJECT_DIR$/src/Collections/Codes/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Codes/Demo2.java" afterPath="$PROJECT_DIR$/src/Collections/Codes/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demo1.java" afterPath="$PROJECT_DIR$/src/Collections/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demo2.java" afterPath="$PROJECT_DIR$/src/Collections/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/ArrayLoopWays.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/ArrayLoopWays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/CRUD.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/Demo1.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/Demo2.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/HashSetDemo.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/HashSetDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/Set/Demo1.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/Set/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Collections/Demos/Set/HashSetDemo.java" afterPath="$PROJECT_DIR$/src/Collections/Demos/Set/HashSetDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Corejava2/week1/1-DebuggingFun/DebuggingFun/bin/.gitignore" afterPath="$PROJECT_DIR$/src/Corejava2/week1/1-DebuggingFun/DebuggingFun/bin/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Corejava2/week6/1-Multithreading/WebCrawler/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/Corejava2/week6/1-Multithreading/WebCrawler/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Corejava2/week6/1-Multithreading/WebCrawler/target/classes/META-INF/maven/URLvsURI/URLvsURI/pom.properties" afterPath="$PROJECT_DIR$/src/Corejava2/week6/1-Multithreading/WebCrawler/target/classes/META-INF/maven/URLvsURI/URLvsURI/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Course.java" afterPath="$PROJECT_DIR$/src/Course.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DataTypePreSuf.java" afterPath="$PROJECT_DIR$/src/DataTypePreSuf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DeepCopy.java" afterPath="$PROJECT_DIR$/src/DeepCopy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Elapsed.java" afterPath="$PROJECT_DIR$/src/Elapsed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Employee.java" afterPath="$PROJECT_DIR$/src/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExecDemo.java" afterPath="$PROJECT_DIR$/src/ExecDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileDemo/src/Demo1.java" afterPath="$PROJECT_DIR$/src/FileDemo/src/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileDemo/src/Demo2.java" afterPath="$PROJECT_DIR$/src/FileDemo/src/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileDemo/src/ReadWriteDemo.java" afterPath="$PROJECT_DIR$/src/FileDemo/src/ReadWriteDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginIncludeServlet.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginIncludeServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/SessionCheckFilter.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/SessionCheckFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" afterPath="$PROJECT_DIR$/src/FilterAndInclude/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GUI/Demo1.java" afterPath="$PROJECT_DIR$/src/GUI/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GUI/Demo2.java" afterPath="$PROJECT_DIR$/src/GUI/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GUI/GameSplashScreen.java" afterPath="$PROJECT_DIR$/src/GUI/GameSplashScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GUI/MainScreen.java" afterPath="$PROJECT_DIR$/src/GUI/MainScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorldDialog.java" afterPath="$PROJECT_DIR$/src/HelloWorldDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ITEmployee.java" afterPath="$PROJECT_DIR$/src/ITEmployee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/AdapterDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/AdapterDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/CardExample.java" afterPath="$PROJECT_DIR$/src/Interfaces/CardExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/Demo3.java" afterPath="$PROJECT_DIR$/src/Interfaces/Demo3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/Demo4.java" afterPath="$PROJECT_DIR$/src/Interfaces/Demo4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/GamingDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/GamingDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceRules.java" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceRules.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceRules2.java" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceRules2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/InterfaceUseDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/InterfaceUseDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/MultipleInheritanceProblem.java" afterPath="$PROJECT_DIR$/src/Interfaces/MultipleInheritanceProblem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/ScannerDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/ScannerDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/StaticDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/StaticDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/StaticMethodDemo.java" afterPath="$PROJECT_DIR$/src/Interfaces/StaticMethodDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/DataType.java" afterPath="$PROJECT_DIR$/src/JavaCodes/DataType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/Employee.java" afterPath="$PROJECT_DIR$/src/JavaCodes/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/IfElseDemo.java" afterPath="$PROJECT_DIR$/src/JavaCodes/IfElseDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/ReferenceDataType.java" afterPath="$PROJECT_DIR$/src/JavaCodes/ReferenceDataType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/SwitchCaseDemo.java" afterPath="$PROJECT_DIR$/src/JavaCodes/SwitchCaseDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaCodes/Test.java" afterPath="$PROJECT_DIR$/src/JavaCodes/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/A.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/A2.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/A3.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/A3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/B.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/B.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/BPlus.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/BPlus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LooslyCoupledDemo/ObjectFactory.java" afterPath="$PROJECT_DIR$/src/LooslyCoupledDemo/ObjectFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MathTest.java" afterPath="$PROJECT_DIR$/src/MathTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyServletAppDemo/src/FirstServlet.java" afterPath="$PROJECT_DIR$/src/MyServletAppDemo/src/FirstServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/HelloServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LogOutServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/LoginServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" afterPath="$PROJECT_DIR$/src/MyServletExamples/src/com/srivastava/apps/WelcomeUserServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Networking/Client.java" afterPath="$PROJECT_DIR$/src/Networking/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Networking/IPTest.java" afterPath="$PROJECT_DIR$/src/Networking/IPTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Networking/PageReader.java" afterPath="$PROJECT_DIR$/src/Networking/PageReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Networking/Server.java" afterPath="$PROJECT_DIR$/src/Networking/Server.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/AbstractDemo.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/AbstractDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/ConsQuestion.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/ConsQuestion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/ConstructorChain.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/ConstructorChain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/GamingDemo.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/GamingDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/OverloadVsOverride.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverloadVsOverride.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/OverrideDemo2.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverrideDemo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/OverridingDemo.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/OverridingDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/ReturnAndPassObject.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/ReturnAndPassObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis2.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/SuperAndThis2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/TypePromotion.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/TypePromotion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/VarArgs.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/VarArgs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOPSCodes/WrapperDemo.java" afterPath="$PROJECT_DIR$/src/OOPSCodes/WrapperDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OutOfMemoryPrg.java" afterPath="$PROJECT_DIR$/src/OutOfMemoryPrg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Palindrome.java" afterPath="$PROJECT_DIR$/src/Palindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Reflection/Calculator.java" afterPath="$PROJECT_DIR$/src/Reflection/Calculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Reflection/DynamicWay.java" afterPath="$PROJECT_DIR$/src/Reflection/DynamicWay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Reflection/StaticWay.java" afterPath="$PROJECT_DIR$/src/Reflection/StaticWay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ShallowCopy.java" afterPath="$PROJECT_DIR$/src/ShallowCopy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/Demo1.java" afterPath="$PROJECT_DIR$/src/StringDemos/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/Demo2.java" afterPath="$PROJECT_DIR$/src/StringDemos/Demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/Demo3.java" afterPath="$PROJECT_DIR$/src/StringDemos/Demo3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/Demo4.java" afterPath="$PROJECT_DIR$/src/StringDemos/Demo4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/EqualsDemo.java" afterPath="$PROJECT_DIR$/src/StringDemos/EqualsDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/Questions.java" afterPath="$PROJECT_DIR$/src/StringDemos/Questions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/StringBufferDemo.java" afterPath="$PROJECT_DIR$/src/StringDemos/StringBufferDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/StringDemo2.java" afterPath="$PROJECT_DIR$/src/StringDemos/StringDemo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringDemos/StringMethods.java" afterPath="$PROJECT_DIR$/src/StringDemos/StringMethods.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringTokenizerDemo.java" afterPath="$PROJECT_DIR$/src/StringTokenizerDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestITEmployee.java" afterPath="$PROJECT_DIR$/src/TestITEmployee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Threads/Demo1.java" afterPath="$PROJECT_DIR$/src/Threads/Demo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Threads/Demo11.java" afterPath="$PROJECT_DIR$/src/Threads/Demo11.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Threads/InterThread.java" afterPath="$PROJECT_DIR$/src/Threads/InterThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Threads/JoinAndSynchExample.java" afterPath="$PROJECT_DIR$/src/Threads/JoinAndSynchExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Threads/SynchDemo1.java" afterPath="$PROJECT_DIR$/src/Threads/SynchDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Web2/src/com/srivastava/actions/LoginAction.java" afterPath="$PROJECT_DIR$/src/Web2/src/com/srivastava/actions/LoginAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch07/methodsandclasses/RecursiveArrayPrint.java" afterPath="$PROJECT_DIR$/src/ch07/methodsandclasses/RecursiveArrayPrint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch10/exception/ExceptionDemo.java" afterPath="$PROJECT_DIR$/src/ch10/exception/ExceptionDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch10/exception/MyException.java" afterPath="$PROJECT_DIR$/src/ch10/exception/MyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch10/exceptiondemo/TestCustomException.java" afterPath="$PROJECT_DIR$/src/ch10/exceptiondemo/TestCustomException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/ArrayListDemo.java" afterPath="$PROJECT_DIR$/src/ch18/ArrayListDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/HashMapDemo.java" afterPath="$PROJECT_DIR$/src/ch18/HashMapDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/IteratorDemo.java" afterPath="$PROJECT_DIR$/src/ch18/IteratorDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/LinkedListTest.java" afterPath="$PROJECT_DIR$/src/ch18/LinkedListTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/RevLastNameComparator.java" afterPath="$PROJECT_DIR$/src/ch18/RevLastNameComparator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/TreeMapDemo.java" afterPath="$PROJECT_DIR$/src/ch18/TreeMapDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/stringprocessing/StringBufferDemo.java" afterPath="$PROJECT_DIR$/src/ch18/stringprocessing/StringBufferDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/stringprocessing/StringProcessingDemo.java" afterPath="$PROJECT_DIR$/src/ch18/stringprocessing/StringProcessingDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/stringprocessing/StringSorting.java" afterPath="$PROJECT_DIR$/src/ch18/stringprocessing/StringSorting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch18/stringprocessing/TrimDemo.java" afterPath="$PROJECT_DIR$/src/ch18/stringprocessing/TrimDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch19/scanner/file/AvgNumbersFile.java" afterPath="$PROJECT_DIR$/src/ch19/scanner/file/AvgNumbersFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch19/scanner/keyboard/AverageNumbers.java" afterPath="$PROJECT_DIR$/src/ch19/scanner/keyboard/AverageNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch19/timerdemo/MyTimer.java" afterPath="$PROJECT_DIR$/src/ch19/timerdemo/MyTimer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classes/Equality.java" afterPath="$PROJECT_DIR$/src/classes/Equality.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/ArrayListExample.java" afterPath="$PROJECT_DIR$/src/collection/ArrayListExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/CollectionSort.java" afterPath="$PROJECT_DIR$/src/collection/CollectionSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/HashMapExample.java" afterPath="$PROJECT_DIR$/src/collection/HashMapExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/HashSetExample.java" afterPath="$PROJECT_DIR$/src/collection/HashSetExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/LinkedHashMapExample.java" afterPath="$PROJECT_DIR$/src/collection/LinkedHashMapExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/LinkedHashSetExample.java" afterPath="$PROJECT_DIR$/src/collection/LinkedHashSetExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/TreeMapExample.java" afterPath="$PROJECT_DIR$/src/collection/TreeMapExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/TreeSetExample.java" afterPath="$PROJECT_DIR$/src/collection/TreeSetExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/User.java" afterPath="$PROJECT_DIR$/src/collection/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/UserArrayList.java" afterPath="$PROJECT_DIR$/src/collection/UserArrayList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/VectorExample.java" afterPath="$PROJECT_DIR$/src/collection/VectorExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hdfc/atm/ATM.java" afterPath="$PROJECT_DIR$/src/com/hdfc/atm/ATM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hdfc/banking/Bank.java" afterPath="$PROJECT_DIR$/src/com/hdfc/banking/Bank.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hdfc/insurance/LifeInsurance.java" afterPath="$PROJECT_DIR$/src/com/hdfc/insurance/LifeInsurance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Address.java" afterPath="$PROJECT_DIR$/src/control/Address.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Break.java" afterPath="$PROJECT_DIR$/src/control/Break.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Continue.java" afterPath="$PROJECT_DIR$/src/control/Continue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Currency.java" afterPath="$PROJECT_DIR$/src/control/Currency.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/CurrencyEnumTest.java" afterPath="$PROJECT_DIR$/src/control/CurrencyEnumTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Emp.java" afterPath="$PROJECT_DIR$/src/control/Emp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/FindMinPassArr.java" afterPath="$PROJECT_DIR$/src/control/FindMinPassArr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/ForEachDemo.java" afterPath="$PROJECT_DIR$/src/control/ForEachDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/HelloConstTest.java" afterPath="$PROJECT_DIR$/src/control/HelloConstTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/RetOb.java" afterPath="$PROJECT_DIR$/src/control/RetOb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/Return.java" afterPath="$PROJECT_DIR$/src/control/Return.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/SwitchDemo.java" afterPath="$PROJECT_DIR$/src/control/SwitchDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/SwitchDemo1.java" afterPath="$PROJECT_DIR$/src/control/SwitchDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/User.java" afterPath="$PROJECT_DIR$/src/control/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/control/WhileDemo.java" afterPath="$PROJECT_DIR$/src/control/WhileDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/circularlinkelist/CircularLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/circularlinkelist/CircularLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/circularlinkelist/TestCirculatLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/circularlinkelist/TestCirculatLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/DoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/DoublyLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/Node.java" afterPath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/TestDoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/doublylinkedlist/TestDoublyLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/hashmap/HashMapTest.java" afterPath="$PROJECT_DIR$/src/datastructure/hashmap/HashMapTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/hashtable/AddKeyValue.java" afterPath="$PROJECT_DIR$/src/datastructure/hashtable/AddKeyValue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/hashtable/HashtableValues.java" afterPath="$PROJECT_DIR$/src/datastructure/hashtable/HashtableValues.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/src/datastructure/linkedlist/LinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/linkedlist/LinkedListDemo.java" afterPath="$PROJECT_DIR$/src/datastructure/linkedlist/LinkedListDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/linkedlist/NoSuchElementException.java" afterPath="$PROJECT_DIR$/src/datastructure/linkedlist/NoSuchElementException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/linkedlist/Node.java" afterPath="$PROJECT_DIR$/src/datastructure/linkedlist/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/stack/NoSuchElementException.java" afterPath="$PROJECT_DIR$/src/datastructure/stack/NoSuchElementException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/stack/Node.java" afterPath="$PROJECT_DIR$/src/datastructure/stack/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/stack/Stack.java" afterPath="$PROJECT_DIR$/src/datastructure/stack/Stack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/stack/StackTest.java" afterPath="$PROJECT_DIR$/src/datastructure/stack/StackTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/DateFormatTest.java" afterPath="$PROJECT_DIR$/src/datereflection/DateFormatTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/DateStrToDateObject.java" afterPath="$PROJECT_DIR$/src/datereflection/DateStrToDateObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/DateTest.java" afterPath="$PROJECT_DIR$/src/datereflection/DateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/InstanceOfUses.java" afterPath="$PROJECT_DIR$/src/datereflection/InstanceOfUses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/JodaTimeExample.java" afterPath="$PROJECT_DIR$/src/datereflection/JodaTimeExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/JodaTimeExamples.java" afterPath="$PROJECT_DIR$/src/datereflection/JodaTimeExamples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/ReflectionClassName.java" afterPath="$PROJECT_DIR$/src/datereflection/ReflectionClassName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datereflection/SimpleDateFormatTest.java" afterPath="$PROJECT_DIR$/src/datereflection/SimpleDateFormatTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dt/AssignmentTest.java" afterPath="$PROJECT_DIR$/src/dt/AssignmentTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dt/Light.java" afterPath="$PROJECT_DIR$/src/dt/Light.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dt/Scope.java" afterPath="$PROJECT_DIR$/src/dt/Scope.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/CompileTimeException.java" afterPath="$PROJECT_DIR$/src/exhand/CompileTimeException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/CustomExceptionTest.java" afterPath="$PROJECT_DIR$/src/exhand/CustomExceptionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/FinallyTest.java" afterPath="$PROJECT_DIR$/src/exhand/FinallyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/InvalidAgeException.java" afterPath="$PROJECT_DIR$/src/exhand/InvalidAgeException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/MultiCatchException.java" afterPath="$PROJECT_DIR$/src/exhand/MultiCatchException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/MultiTryCatch.java" afterPath="$PROJECT_DIR$/src/exhand/MultiTryCatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/PgmWithoutException.java" afterPath="$PROJECT_DIR$/src/exhand/PgmWithoutException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/RuntimeExceptionAutoPropagate.java" afterPath="$PROJECT_DIR$/src/exhand/RuntimeExceptionAutoPropagate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/ThrowCheckExceptionCompileError.java" afterPath="$PROJECT_DIR$/src/exhand/ThrowCheckExceptionCompileError.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/ThrowExampleWithTryCatch.java" afterPath="$PROJECT_DIR$/src/exhand/ThrowExampleWithTryCatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/ThrowTest.java" afterPath="$PROJECT_DIR$/src/exhand/ThrowTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exhand/ThrowsUncheckPropagation.java" afterPath="$PROJECT_DIR$/src/exhand/ThrowsUncheckPropagation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/ActionEvent.java" afterPath="$PROJECT_DIR$/src/innerclass/ActionEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/AnnInnAbstClass.java" afterPath="$PROJECT_DIR$/src/innerclass/AnnInnAbstClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/AnnonymousInterfaceImpl.java" afterPath="$PROJECT_DIR$/src/innerclass/AnnonymousInterfaceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/ButtonClick.java" afterPath="$PROJECT_DIR$/src/innerclass/ButtonClick.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/ButtonClickActionListener.java" afterPath="$PROJECT_DIR$/src/innerclass/ButtonClickActionListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/EmployeeOuter.java" afterPath="$PROJECT_DIR$/src/innerclass/EmployeeOuter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/Person.java" afterPath="$PROJECT_DIR$/src/innerclass/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/ShyamEat.java" afterPath="$PROJECT_DIR$/src/innerclass/ShyamEat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/StaticInnerClassWithStaticMethod.java" afterPath="$PROJECT_DIR$/src/innerclass/StaticInnerClassWithStaticMethod.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/innerclass/StaticInnerO.java" afterPath="$PROJECT_DIR$/src/innerclass/StaticInnerO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/BufferedInputStreamExample.java" afterPath="$PROJECT_DIR$/src/io/BufferedInputStreamExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/BufferedOutputStreamExample.java" afterPath="$PROJECT_DIR$/src/io/BufferedOutputStreamExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/BufferedReaderInputStreamReader.java" afterPath="$PROJECT_DIR$/src/io/BufferedReaderInputStreamReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/DeserializeUser.java" afterPath="$PROJECT_DIR$/src/io/DeserializeUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileExample.java" afterPath="$PROJECT_DIR$/src/io/FileExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileInputStreamExample.java" afterPath="$PROJECT_DIR$/src/io/FileInputStreamExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileOutputStreamExample.java" afterPath="$PROJECT_DIR$/src/io/FileOutputStreamExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileReaderExample.java" afterPath="$PROJECT_DIR$/src/io/FileReaderExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileStreamReadOneWriteToOther.java" afterPath="$PROJECT_DIR$/src/io/FileStreamReadOneWriteToOther.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FileWriterExample.java" afterPath="$PROJECT_DIR$/src/io/FileWriterExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ReadCsv.java" afterPath="$PROJECT_DIR$/src/io/ReadCsv.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ScannerConsoleInput.java" afterPath="$PROJECT_DIR$/src/io/ScannerConsoleInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ScannerDelimated.java" afterPath="$PROJECT_DIR$/src/io/ScannerDelimated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ScannerEx.java" afterPath="$PROJECT_DIR$/src/io/ScannerEx.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/SerializationUser.java" afterPath="$PROJECT_DIR$/src/io/SerializationUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/TryWithResource.java" afterPath="$PROJECT_DIR$/src/io/TryWithResource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/User.java" afterPath="$PROJECT_DIR$/src/io/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/iteration/Break.java" afterPath="$PROJECT_DIR$/src/iteration/Break.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/iteration/DoWhile.java" afterPath="$PROJECT_DIR$/src/iteration/DoWhile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/iteration/DoWhileTollRoad.java" afterPath="$PROJECT_DIR$/src/iteration/DoWhileTollRoad.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/iteration/ForEachMultiArray.java" afterPath="$PROJECT_DIR$/src/iteration/ForEachMultiArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/iteration/ForEachWithBreak.java" afterPath="$PROJECT_DIR$/src/iteration/ForEachWithBreak.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/CommonDAO.java" afterPath="$PROJECT_DIR$/src/jdbc/CommonDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/JDBC.java" afterPath="$PROJECT_DIR$/src/jdbc/JDBC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/JDBCDemo1.java" afterPath="$PROJECT_DIR$/src/jdbc/JDBCDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/JdbcConnectionTest.java" afterPath="$PROJECT_DIR$/src/jdbc/JdbcConnectionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/LoginDAO.java" afterPath="$PROJECT_DIR$/src/jdbc/LoginDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/LoginDemo.java" afterPath="$PROJECT_DIR$/src/jdbc/LoginDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jdbc/MysqlConnection.java" afterPath="$PROJECT_DIR$/src/jdbc/MysqlConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modelview/EventListenerOne.java" afterPath="$PROJECT_DIR$/src/modelview/EventListenerOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modelview/EventListenerTwo.java" afterPath="$PROJECT_DIR$/src/modelview/EventListenerTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modelview/EventNotifier.java" afterPath="$PROJECT_DIR$/src/modelview/EventNotifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modelview/ModelViewDemo.java" afterPath="$PROJECT_DIR$/src/modelview/ModelViewDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/FacebookLike.java" afterPath="$PROJECT_DIR$/src/mthread/FacebookLike.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/RunnableInterface.java" afterPath="$PROJECT_DIR$/src/mthread/RunnableInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/ShutdownHookExample.java" afterPath="$PROJECT_DIR$/src/mthread/ShutdownHookExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/SynchronizeFbLike.java" afterPath="$PROJECT_DIR$/src/mthread/SynchronizeFbLike.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/ThreadClass.java" afterPath="$PROJECT_DIR$/src/mthread/ThreadClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/ThreadJoinCalcTanx.java" afterPath="$PROJECT_DIR$/src/mthread/ThreadJoinCalcTanx.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/ThreadJoinPrintValues.java" afterPath="$PROJECT_DIR$/src/mthread/ThreadJoinPrintValues.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mthread/ThreadsWithName.java" afterPath="$PROJECT_DIR$/src/mthread/ThreadsWithName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/ChangeStaticValue.java" afterPath="$PROJECT_DIR$/src/oop/ChangeStaticValue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/PassObjAsParam.java" afterPath="$PROJECT_DIR$/src/oop/PassObjAsParam.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/StaticBlock.java" afterPath="$PROJECT_DIR$/src/oop/StaticBlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/StaticVariable.java" afterPath="$PROJECT_DIR$/src/oop/StaticVariable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/abst/AbstractClassTest.java" afterPath="$PROJECT_DIR$/src/oop/abst/AbstractClassTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/abst/Bank.java" afterPath="$PROJECT_DIR$/src/oop/abst/Bank.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/abst/Nabil.java" afterPath="$PROJECT_DIR$/src/oop/abst/Nabil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/abst/NicAsia.java" afterPath="$PROJECT_DIR$/src/oop/abst/NicAsia.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/abst/StandChart.java" afterPath="$PROJECT_DIR$/src/oop/abst/StandChart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/finalex/EmployeePanNo.java" afterPath="$PROJECT_DIR$/src/oop/finalex/EmployeePanNo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/finalex/FinalParam.java" afterPath="$PROJECT_DIR$/src/oop/finalex/FinalParam.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/inheritence/Bus.java" afterPath="$PROJECT_DIR$/src/oop/inheritence/Bus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/inheritence/Car.java" afterPath="$PROJECT_DIR$/src/oop/inheritence/Car.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/inheritence/Vehicle.java" afterPath="$PROJECT_DIR$/src/oop/inheritence/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/Bank.java" afterPath="$PROJECT_DIR$/src/oop/interf/Bank.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/InterfaceImplTest.java" afterPath="$PROJECT_DIR$/src/oop/interf/InterfaceImplTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/Nabil.java" afterPath="$PROJECT_DIR$/src/oop/interf/Nabil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/NicAsia.java" afterPath="$PROJECT_DIR$/src/oop/interf/NicAsia.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/PrintableImpl.java" afterPath="$PROJECT_DIR$/src/oop/interf/PrintableImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/StandChart.java" afterPath="$PROJECT_DIR$/src/oop/interf/StandChart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/ext/InterfaceInheritenceTest.java" afterPath="$PROJECT_DIR$/src/oop/interf/ext/InterfaceInheritenceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/interf/ext/Readable.java" afterPath="$PROJECT_DIR$/src/oop/interf/ext/Readable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/overloading/Calculation.java" afterPath="$PROJECT_DIR$/src/oop/overloading/Calculation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/overloading/Calculation2.java" afterPath="$PROJECT_DIR$/src/oop/overloading/Calculation2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/overloading/OverloadingTypePromotionCalc.java" afterPath="$PROJECT_DIR$/src/oop/overloading/OverloadingTypePromotionCalc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/override/Bike.java" afterPath="$PROJECT_DIR$/src/oop/override/Bike.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/override/bank/InterestRateTest.java" afterPath="$PROJECT_DIR$/src/oop/override/bank/InterestRateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/part/Part.java" afterPath="$PROJECT_DIR$/src/oop/part/Part.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/part/TestPart.java" afterPath="$PROJECT_DIR$/src/oop/part/TestPart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/Cow.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Cow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/Lamb.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Lamb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/Splender.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Splender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/TestAnimal.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/TestAnimal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/binding/Boy.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/binding/Boy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/binding/Human.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/binding/Human.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Animal.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Dog.java" afterPath="$PROJECT_DIR$/src/oop/polymorphism/multilevel/Dog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop/superex/Vehicle.java" afterPath="$PROJECT_DIR$/src/oop/superex/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Course.java" afterPath="$PROJECT_DIR$/src/org/Course.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/constr/Area.java" afterPath="$PROJECT_DIR$/src/org/constr/Area.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/constr/Student.java" afterPath="$PROJECT_DIR$/src/org/constr/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/course/JavaCourse.java" afterPath="$PROJECT_DIR$/src/org/course/JavaCourse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/course/StaticImport.java" afterPath="$PROJECT_DIR$/src/org/course/StaticImport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/pkgpvt/JavaCourse.java" afterPath="$PROJECT_DIR$/src/org/pkgpvt/JavaCourse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/pkgpvt/Student.java" afterPath="$PROJECT_DIR$/src/org/pkgpvt/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/stud/Student.java" afterPath="$PROJECT_DIR$/src/org/stud/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/AvgNums.java" afterPath="$PROJECT_DIR$/src/scanner/AvgNums.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/BasicInput.java" afterPath="$PROJECT_DIR$/src/scanner/BasicInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/DelimiterTest.java" afterPath="$PROJECT_DIR$/src/scanner/DelimiterTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/FindInLine.java" afterPath="$PROJECT_DIR$/src/scanner/FindInLine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/ParsingMixedData.java" afterPath="$PROJECT_DIR$/src/scanner/ParsingMixedData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/ReadFromFile.java" afterPath="$PROJECT_DIR$/src/scanner/ReadFromFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/TakeInputFromUser.java" afterPath="$PROJECT_DIR$/src/scanner/TakeInputFromUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scanner/integer/ScanInteger.java" afterPath="$PROJECT_DIR$/src/scanner/integer/ScanInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/searching/BinarySearchDemo.java" afterPath="$PROJECT_DIR$/src/searching/BinarySearchDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting/sortparallel/Employee.java" afterPath="$PROJECT_DIR$/src/sorting/sortparallel/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting/sortparallel/EmployeeTest.java" afterPath="$PROJECT_DIR$/src/sorting/sortparallel/EmployeeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting/sortparallel/EmployeeUtil.java" afterPath="$PROJECT_DIR$/src/sorting/sortparallel/EmployeeUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorting/sortparallel/MergeIntegerArrays.java" afterPath="$PROJECT_DIR$/src/sorting/sortparallel/MergeIntegerArrays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/StringBufferTest.java" afterPath="$PROJECT_DIR$/src/string/StringBufferTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/stringtokenizer/StringTokenizerMultiDelimeters.java" afterPath="$PROJECT_DIR$/src/string/stringtokenizer/StringTokenizerMultiDelimeters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/stringtokenizer/StringTokenizerSimple.java" afterPath="$PROJECT_DIR$/src/string/stringtokenizer/StringTokenizerSimple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/stringtokenizer/processfile/ReadFileUsingTokenizer.java" afterPath="$PROJECT_DIR$/src/string/stringtokenizer/processfile/ReadFileUsingTokenizer.java" />
     </list>
     <ignored path="JavaConcept.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,67 +415,7 @@
     <favorites_list name="JavaConcept" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ATM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ATM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayLoopWays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stream01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileDemo/src/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsQuestion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IS-A/ConsQuestion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LooslyCoupledDemo/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="agenda0.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,8 +426,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problems.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md">
+      <file leaf-file-name="eclipse-derived-120.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/000-StartHere/eclipse-derived-120.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -104,8 +436,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problems.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md">
+      <file leaf-file-name="eclipsePrefs.epf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/000-StartHere/eclipsePrefs.epf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -114,17 +446,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problems.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/13-Networking1/problems.md">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problems4.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/04-CollectionsAndGenerics1/problems4.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/06-Exam1/solution/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materials.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/10-StructuredData/materials.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/10-StructuredData/testData/links.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03_oops/inheritance/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch02_objects/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -145,6 +544,12 @@
         <option value="$PROJECT_DIR$/src/FileDemo/src/Demo1.java" />
         <option value="$PROJECT_DIR$/src/IS-A/ConsQuestion.java" />
         <option value="$PROJECT_DIR$/src/LooslyCoupledDemo/A.java" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/06-Exam1/solution/Main.java" />
+        <option value="$PROJECT_DIR$/src/ch03_obj_n_classes/inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ch03_oops/inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ch03_oops/p02_constructor/Person.java" />
+        <option value="$PROJECT_DIR$/src/ch02_objects/Person.java" />
       </list>
     </option>
   </component>
@@ -183,8 +588,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,7 +637,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LooslyCoupledDemo" />
+              <option name="myItemId" value="ch03_oops" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,7 +655,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="IS-A" />
+              <option name="myItemId" value="ch03_oops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inheritance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,29 +677,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="IS-A" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ConsQuestion.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileDemo" />
+              <option name="myItemId" value="ch02_objects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,11 +695,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FileDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="10-StructuredData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -329,7 +713,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Collection1" />
+              <option name="myItemId" value="10-StructuredData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,106 +735,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CollCodes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="13-Networking1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09-PracticalTeamWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-WorkingWithLibraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00-JavaPlatformIntroduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaConcept" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="04-CollectionsAndGenerics1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaK2/java-puzzlers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -748,6 +1049,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -1002,6 +1304,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1175,41 +1483,49 @@
       <option name="presentableId" value="Default" />
       <updated>1472596644817</updated>
       <workItem from="1472596648381" duration="3616000" />
+      <workItem from="1472710434828" duration="296000" />
+      <workItem from="1472810497500" duration="377000" />
+      <workItem from="1473179004605" duration="118000" />
+      <workItem from="1475846681663" duration="1850000" />
+      <workItem from="1476051741908" duration="18000" />
+      <workItem from="1477292535622" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3616000" />
+    <option name="totallyTimeSpent" value="6280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1232,75 +1548,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch07/methodsandclasses/RecursiveArrayPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_oops/inheritance/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_oops/inheritance/TestAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_oops/interfaces/Excel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_oops/methodhiding/StaticMethodHiding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ATM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1308,7 +1559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1316,7 +1566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1324,7 +1573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1340,7 +1588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,7 +1595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,6 +1602,269 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileDemo/src/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IS-A/ConsQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LooslyCoupledDemo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/13-Networking1/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch07/methodsandclasses/RecursiveArrayPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03_oops/inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03_oops/inheritance/TestAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03_oops/interfaces/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03_oops/methodhiding/StaticMethodHiding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CollCodes/ArrayLoopWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection1/Stream01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileDemo/src/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IS-A/ConsQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LooslyCoupledDemo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/08-WorkingWithLibraries/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/09-PracticalTeamWork/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/13-Networking1/problems.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/00-JavaPlatformIntroduction/agenda0.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/000-StartHere/eclipse-derived-120.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/000-StartHere/eclipsePrefs.epf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01-TypesArraysStrings/Project1/src/com/hackbulgaria/corejava/Problems2.java" />
+    <entry file="file://$PROJECT_DIR$/src/01-TypesArraysStrings/pre1.md" />
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/03-OOP1/pre3.md" />
+    <entry file="file://$PROJECT_DIR$/src/03-OOP1/agenda3.md" />
+    <entry file="file://$PROJECT_DIR$/src/03-OOP1/problems3.md" />
+    <entry file="file://$PROJECT_DIR$/src/11-OOP2/materials.md" />
+    <entry file="file://$PROJECT_DIR$/src/11-OOP2/problems.md" />
+    <entry file="file://$PROJECT_DIR$/src/04-CollectionsAndGenerics1/problems4.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/06-Exam1/solution/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/10-StructuredData/materials.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/10-StructuredData/testData/links.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/12-SmallProject/ref/2048/src/com/hackbulgaria/corejava/game2048/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ch03_oops/inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02_objects/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>

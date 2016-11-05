@@ -7,7 +7,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-
 public class JDBCDemo1 {
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
@@ -21,37 +20,23 @@ public class JDBCDemo1 {
 		// Step - 2 Create Connection
 		// jdbc:mysql://hostname:port/dbname
 		// jdbc:oracle:thin:@hostname:portno:dbname
-		Connection con = 
-				DriverManager.
-				getConnection("jdbc:mysql://localhost:3306/jdbc230","root","root");
-		if(con!=null){	
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc230", "root", "root");
+		if (con != null) {
 			System.out.println("Connection Created...");
 		}
 		// Step - 3 Do Query
 		Statement stmt = con.createStatement();
 		// Step - 4 Query and Get the Result
-		ResultSet rs = stmt.executeQuery("select id,name,salary from employee where salary>"+salary);
+		ResultSet rs = stmt.executeQuery("select id,name,salary from employee where salary>" + salary);
 		// Loop till there is Row in ResultSet
-		while(rs.next()){
-			System.out.println(rs.getInt("id")
-					+" "+rs.getString("name")
-					+" "+rs.getDouble("salary"));
+		while (rs.next()) {
+			System.out.println(rs.getInt("id") + " " + rs.getString("name") + " " + rs.getDouble("salary"));
 		}
 		// Step-5 Close all Resources
 		rs.close();
 		stmt.close();
 		con.close();
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+
 	}
 
 }

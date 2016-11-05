@@ -7,7 +7,8 @@ public class FinalParam {
 	public void area(final double PI, double r) {
 		area = PI * r * r;
 
-		PI = 2.5;
+		//NOTE: Will not compile
+//		PI = 2.5;
 
 		System.out.println(area);
 	}

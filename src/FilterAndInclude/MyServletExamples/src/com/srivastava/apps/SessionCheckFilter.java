@@ -17,12 +17,12 @@ import javax.servlet.http.HttpSession;
  */
 public class SessionCheckFilter implements Filter {
 
-    /**
-     * Default constructor. 
-     */
-    public SessionCheckFilter() {
-        // TODO Auto-generated constructor stub
-    }
+	/**
+	 * Default constructor.
+	 */
+	public SessionCheckFilter() {
+		// TODO Auto-generated constructor stub
+	}
 
 	/**
 	 * @see Filter#destroy()
@@ -34,15 +34,15 @@ public class SessionCheckFilter implements Filter {
 	/**
 	 * @see Filter#doFilter(ServletRequest, ServletResponse, FilterChain)
 	 */
-	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
-		HttpSession session = ((HttpServletRequest)request).getSession(false);
-		if(session==null){
-			((HttpServletResponse)response).sendRedirect("index.html");
+	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+			throws IOException, ServletException {
+		HttpSession session = ((HttpServletRequest) request).getSession(false);
+		if (session == null) {
+			((HttpServletResponse) response).sendRedirect("index.html");
+		} else {
+			chain.doFilter(request, response);
 		}
-		else{
-		chain.doFilter(request, response);
-		}
-		}
+	}
 
 	/**
 	 * @see Filter#init(FilterConfig)

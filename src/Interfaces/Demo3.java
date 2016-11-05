@@ -2,7 +2,6 @@ package Interfaces;
 
 import java.util.Scanner;
 
-
 public class Demo3 {
 
 	public static void main(String[] args) {
@@ -12,7 +11,7 @@ public class Demo3 {
 		System.out.println("Enter the Second NO");
 		int secondNo = scanner.nextInt();
 		int result = firstNo + secondNo;
-		System.out.println("Result is "+result);
+		System.out.println("Result is " + result);
 		scanner.close();
 	}
 

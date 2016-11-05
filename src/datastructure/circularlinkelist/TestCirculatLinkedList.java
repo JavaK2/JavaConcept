@@ -8,7 +8,7 @@ public class TestCirculatLinkedList {
 		cLink.insertAtFirst(3);
 		cLink.insertAtFirst(4);
 		cLink.printList();
-		
+
 		System.out.println("Inserting 100 at position 3");
 		cLink.insertAtPosition(100, 3);
 		cLink.printList();

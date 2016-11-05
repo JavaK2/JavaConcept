@@ -1,10 +1,9 @@
 package Threads;
 
-class A
-{
-	static void disp(){
-		for(int i = 1; i<=5 ; i++){
-			System.out.println("Thread "+Thread.currentThread().getName()+" Value "+i);
+class A {
+	static void disp() {
+		for (int i = 1; i <= 5; i++) {
+			System.out.println("Thread " + Thread.currentThread().getName() + " Value " + i);
 			try {
 				Thread.sleep(100);
 			} catch (InterruptedException e) {
@@ -13,10 +12,10 @@ class A
 			}
 		}
 	}
-	
-	void print(){
-		for(int i = 1; i<=5 ; i++){
-			System.out.println("Thread "+Thread.currentThread().getName()+" Value "+i);
+
+	void print() {
+		for (int i = 1; i <= 5; i++) {
+			System.out.println("Thread " + Thread.currentThread().getName() + " Value " + i);
 			try {
 				Thread.sleep(100);
 			} catch (InterruptedException e) {
@@ -27,17 +26,15 @@ class A
 	}
 }
 
-class SynchJob implements Runnable
-{
-	
-	
-	
+class SynchJob implements Runnable {
+
 	A obj = new A();
+
 	@Override
-	public  void run(){
+	public void run() {
 		synchronized (this) {
-			for(int i = 1; i<=5 ; i++){
-				System.out.println("Thread "+Thread.currentThread().getName()+" Value "+i);
+			for (int i = 1; i <= 5; i++) {
+				System.out.println("Thread " + Thread.currentThread().getName() + " Value " + i);
 				try {
 					Thread.sleep(100);
 				} catch (InterruptedException e) {
@@ -54,27 +51,20 @@ class SynchJob implements Runnable
 		}
 	}
 }
+
 public class SynchDemo1 {
 
 	public static void main(String[] args) throws InterruptedException {
-		/*Job job = new Job();
-		Thread worker1 = new Thread(job,"ram");
-		Job job2 = new Job();
-		Thread worker2 = new Thread(job2,"shyam");
-		Job job3 = new Job();
-		Thread worker3 = new Thread(job3,"sohan");
-		worker1.start();
-		worker2.start();
-		worker3.start();*/
-		/*worker1.start();
-		worker1.join();
-		worker2.start();
-		worker2.join();
-		worker3.start();*/
-		
-		
-		
-		
+		/*
+		 * Job job = new Job(); Thread worker1 = new Thread(job,"ram"); Job job2
+		 * = new Job(); Thread worker2 = new Thread(job2,"shyam"); Job job3 =
+		 * new Job(); Thread worker3 = new Thread(job3,"sohan");
+		 * worker1.start(); worker2.start(); worker3.start();
+		 */
+		/*
+		 * worker1.start(); worker1.join(); worker2.start(); worker2.join();
+		 * worker3.start();
+		 */
 
 	}
 

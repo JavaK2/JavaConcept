@@ -1,5 +1,7 @@
 package com.hackbulgaria.corejava.exam1;
 
+import java.util.logging.Logger;
+
 public class Main {
     public static void main(String[] args) {
         Logger logger = new Logger();

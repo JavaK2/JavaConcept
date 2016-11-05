@@ -10,8 +10,8 @@ public interface Bank {
 	public int getRate();
 
 	/*
-	 * Its OK but not good to define Constant in the interface. 
-	 * Compiler change it to 	public static final int serviceChargeRate = 4.
+	 * Its OK but not good to define Constant in the interface. Compiler change
+	 * it to public static final int serviceChargeRate = 4.
 	 */
-	public int	serviceChargeRate	= 4;
+	public int serviceChargeRate = 4;
 }

@@ -14,15 +14,15 @@ import javax.swing.JOptionPane;
 import java.awt.event.ItemListener;
 import java.awt.event.ItemEvent;
 
-
 public class MusicPlayer extends JFrame {
 
 	List list = new List();
+
 	public static void main(String[] args) {
-		
-					MusicPlayer frame = new MusicPlayer();
-					frame.setVisible(true);
-				
+
+		MusicPlayer frame = new MusicPlayer();
+		frame.setVisible(true);
+
 	}
 
 	/**
@@ -32,7 +32,7 @@ public class MusicPlayer extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 581, 362);
 		getContentPane().setLayout(null);
-		
+
 		JButton btnBrowse = new JButton("Browse");
 		btnBrowse.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -51,40 +51,32 @@ public class MusicPlayer extends JFrame {
 				playSelected();
 			}
 		});
-		
-		
+
 		list.setBounds(36, 91, 134, 176);
 		getContentPane().add(list);
 	}
-	private void playSelected(){
+
+	private void playSelected() {
 		File file = new File(list.getSelectedItem());
-		if(file.exists()){
-		MP3Player mp3 = new MP3Player(file);
-		mp3.play();
-		}
-		else{
+		if (file.exists()) {
+			MP3Player mp3 = new MP3Player(file);
+			mp3.play();
+		} else {
 			JOptionPane.showMessageDialog(this, "Invalid Path");
 		}
 	}
-	private void browseFiles(){
+
+	private void browseFiles() {
 		JFileChooser chooser = new JFileChooser("E:\\UI-ClientSideProject\\Html5_Project\\WebContent");
 		chooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
 		chooser.showOpenDialog(this);
-		
+
 		File folder = chooser.getSelectedFile();
-		//System.out.println(file.getPath());
+		// System.out.println(file.getPath());
 		File files[] = folder.listFiles();
-		for(File f : files){
+		for (File f : files) {
 			list.add(f.getPath());
 		}
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }

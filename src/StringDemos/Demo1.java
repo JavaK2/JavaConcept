@@ -4,15 +4,13 @@ package StringDemos;
 public class Demo1 {
 
 	public static void main(String[] args) {
-		String a = "Hello";  // 1 or 0 
+		String a = "Hello"; // 1 or 0
 		String b = "Hello";
-		a= "bye";
-		b="ok";
-		if(a==b){
+		a = "bye";
+		b = "ok";
+		if (a == b) {
 			System.out.println("Same Ref");
-		}
-		else
-		{
+		} else {
 			System.out.println("Not Same Ref");
 		}
 

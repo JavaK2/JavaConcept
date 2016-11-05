@@ -9,9 +9,10 @@ public class Demo4 {
 		sb.append("gfgd75567567567567657567567567567657567675fgdfgdfgdfgdfgdfgdg");
 		System.out.println(sb.length());
 		System.out.println(sb.capacity());
-		/*sb.append("TT");
-		System.out.println(sb.length());
-		System.out.println(sb.capacity());*/
+		/*
+		 * sb.append("TT"); System.out.println(sb.length());
+		 * System.out.println(sb.capacity());
+		 */
 	}
 
 }

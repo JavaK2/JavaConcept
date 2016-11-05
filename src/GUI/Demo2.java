@@ -15,20 +15,18 @@ import javax.swing.JTextField;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-
 public class Demo2 extends JFrame {
 	private JTextField textField;
 	private boolean isXOrZero = false;
-	
 
 	/**
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
-		
-					Demo2 frame = new Demo2();
-					frame.setVisible(true);
-				
+
+		Demo2 frame = new Demo2();
+		frame.setVisible(true);
+
 	}
 
 	/**
@@ -58,27 +56,26 @@ public class Demo2 extends JFrame {
 		btnOk.setFont(new Font("Tahoma", Font.BOLD, 16));
 		btnOk.setBounds(66, 210, 89, 23);
 		getContentPane().add(btnOk);
-		
-		
+
 		btnCancel.setBounds(216, 209, 161, 23);
 		getContentPane().add(btnCancel);
-		
+
 		textField = new JTextField();
 		textField.setFont(new Font("Tahoma", Font.BOLD, 18));
 		textField.setBounds(56, 145, 200, 50);
 		getContentPane().add(textField);
 		textField.setColumns(10);
-		
+
 		JButton one = new JButton("");
 		one.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-			xorZero(one);
+				xorZero(one);
 			}
 		});
 		one.setFont(new Font("Tahoma", Font.BOLD, 18));
 		one.setBounds(20, 28, 119, 50);
 		getContentPane().add(one);
-		
+
 		JButton two = new JButton("");
 		two.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -88,7 +85,7 @@ public class Demo2 extends JFrame {
 		two.setFont(new Font("Tahoma", Font.BOLD, 18));
 		two.setBounds(163, 28, 119, 50);
 		getContentPane().add(two);
-		
+
 		JButton three = new JButton("");
 		three.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -99,17 +96,16 @@ public class Demo2 extends JFrame {
 		three.setBounds(305, 28, 119, 50);
 		getContentPane().add(three);
 	}
-	void xorZero(JButton b1){
-		if(b1.getText().trim().length()==0){
-		if(isXOrZero){
-			b1.setText("0");
-		}
-		else
-		{
-			b1.setText("X");
-		}
-		isXOrZero= !isXOrZero;
+
+	void xorZero(JButton b1) {
+		if (b1.getText().trim().length() == 0) {
+			if (isXOrZero) {
+				b1.setText("0");
+			} else {
+				b1.setText("X");
+			}
+			isXOrZero = !isXOrZero;
 		}
 	}
-	
+
 }

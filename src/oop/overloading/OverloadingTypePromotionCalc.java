@@ -1,7 +1,7 @@
 package oop.overloading;
 
 public class OverloadingTypePromotionCalc {
-	
+
 	void sum(int a, int b) {
 		System.out.println("int arg method invoked");
 	}

@@ -6,7 +6,7 @@ public class StringBufferDemo {
 		StringBuffer sb = new StringBuffer();
 		sb.append("ramesh");
 		sb.insert(0, "Mr");
-		//sb.append(90);
+		// sb.append(90);
 		sb.delete(2, 4);
 		sb.deleteCharAt(0);
 		System.out.println(sb);

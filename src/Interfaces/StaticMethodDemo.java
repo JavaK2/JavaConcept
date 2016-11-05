@@ -1,33 +1,39 @@
 package Interfaces;
 
-class Emp{
+class Emp {
 	int empno;
 	double salary;
-	void calcSalary(){
-		
+
+	void calcSalary() {
+
 	}
-	void bonus(){
-		
+
+	void bonus() {
+
 	}
 }
+
 // Utility Class
-/*final class*/ interface MathOperations{
-	//private MathOperations(){}
-	static void decimalToHexa(){
-		
+/* final class */ interface MathOperations {
+	// private MathOperations(){}
+	static void decimalToHexa() {
+
 	}
-	static void cube(){
-		
+
+	static void cube() {
+
 	}
-	static void squareRoot(){
-		
+
+	static void squareRoot() {
+
 	}
 }
+
 public class StaticMethodDemo {
 
 	public static void main(String[] args) {
-		//MathOperations m = new MathOperations();
-		//m.cube();
+		// MathOperations m = new MathOperations();
+		// m.cube();
 		MathOperations.cube();
 
 	}

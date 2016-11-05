@@ -16,8 +16,7 @@ public class JdbcConnectionTest {
 
 			// 2.Connect to the Database: URL:database Path, username, password.
 			// here studentdb is database name, root is username and password
-			con = DriverManager.getConnection(
-					"jdbc:mysql://localhost:3306/studentdb", "root", "");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentdb", "root", "");
 
 			// 3. Create Statement
 			Statement stmt = con.createStatement();
@@ -28,7 +27,7 @@ public class JdbcConnectionTest {
 			// 5. Fetch the result.
 			while (rs.next()) {// Loop Each Row
 				// Fetch columns
-				// System.out.println(rs.getInt(1) + "  " + rs.getString(2));
+				// System.out.println(rs.getInt(1) + " " + rs.getString(2));
 				System.out.println(rs.getInt("id") + "  " + rs.getString("name"));
 			}
 

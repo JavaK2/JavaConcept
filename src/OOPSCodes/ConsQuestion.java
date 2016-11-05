@@ -1,15 +1,16 @@
 package OOPSCodes;
 
-class T
-{
-	T(){
+class T {
+	T() {
 		System.out.println("I am Cons");
 	}
-	void T(){
+
+	void T() {
 		System.out.println("I am Method");
 	}
-	
+
 }
+
 public class ConsQuestion {
 
 	public static void main(String[] args) {

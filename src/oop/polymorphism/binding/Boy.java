@@ -8,10 +8,10 @@ public class Boy extends Human {
 	}
 
 	public static void main(String args[]) {
-		
+
 		Human h = new Human();
 		h.walk(); // Static binding
-		
+
 		Boy b = new Boy(); // Static binding
 		b.walk();
 
